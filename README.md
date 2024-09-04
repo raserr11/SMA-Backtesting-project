@@ -36,7 +36,3 @@ pip install backtrader pandas matplotlib
 ## Additional Notes
 - **Provisional Outputs**: Current outputs are generated using basic `print()` statements. A function is being developed to streamline and enhance the output formatting.
 - **Customization**: The backtesting period can be customized by entering specific start and end dates.
-
----
-
-This README gives an overview of the project, details the dataset, and explains the strategy and technologies used. It also includes installation instructions and notes on ongoing improvements.
